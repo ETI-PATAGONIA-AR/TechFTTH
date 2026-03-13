@@ -58,7 +58,7 @@ Está pensada para cooperativas e ISPs pequeños que necesitan:
 - Referencia de datos operativos del ISP
 
 ### 🔌 Integración
-- Consola SSH integrada con OLTs Huawei (MA5800-X7 / MA5608T)
+- Consola SSH integrada con OLTs Huawei (MA5800-X7 / MA5608T) "adaptable a cualquier sistema / hardware"
 - Alta y baja de ONUs desde la interfaz
 - Modo Demo: simulador de OLT Huawei sin equipo real
 - Importar clientes desde Excel
